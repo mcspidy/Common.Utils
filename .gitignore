@@ -1,3 +1,8 @@
+.vs/
 .vs/Common.Utils/
-bin/Debug
-obj/Debug
+.vs/CopilotSnapshots/
+[Bb]in/
+[Bb]in/[Dd]ebug
+[Bb]in/[Rr]elease
+[Oo]bj/[Dd]ebug
+[Oo]bj/[Rr]elease
